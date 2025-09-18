@@ -3,6 +3,7 @@
 ## Chirag Katkoriya
 
 <small>1. What key features do you believe are essential in a remote work collaboration tool and why?</small>  
+**Responses:** 
 
 <small>2. In a team chat interface, which features are most crucial for keeping conversations organized?</small>  
 
