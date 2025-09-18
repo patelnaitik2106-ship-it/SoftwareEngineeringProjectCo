@@ -1,6 +1,6 @@
 # Interview Responses
 
-## Chirag Katkoriya
+# Chirag Katkoriya
 
 <small>1. What key features do you believe are essential in a remote work collaboration tool and why?</small>  
 **Response:** 
