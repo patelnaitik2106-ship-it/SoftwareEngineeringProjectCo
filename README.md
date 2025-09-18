@@ -1,28 +1,7 @@
-# SoftwareEngineeringProjectCo
-in this we create software engineering project
-
-
-# Converge – Remote Work Collaboration Tool
-
-## Project Overview
-Converge is a remote work collaboration tool designed to make distributed teamwork simple and efficient.  
-It integrates messaging, file sharing, task management, scheduling, and progress tracking to eliminate the need for switching between multiple applications.
-
-This document presents the responses collected through an interview-based survey. These insights will help in shaping the tool to meet real user needs.
-
----
-
-## Purpose of the Survey
-The purpose of this survey was to:
-- Identify essential features required in a remote collaboration tool.  
-- Understand user expectations for chat interfaces, task management, and notifications.  
-- Gather perspectives on productivity features inspired by platforms such as GitHub.  
-- Explore needs for solo work and team-based collaboration.  
-- Assess requirements for integrations with external tools.  
-
----
 
 ## Interview Responses
+
+## Chirag Katkoriya 
 
 ### 1. What key features do you believe are essential in a remote work collaboration tool and why?  
 **Responses:**  
