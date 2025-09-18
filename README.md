@@ -3,10 +3,10 @@
 # Chirag Katkoriya
 
 ### 1. What key features do you believe are essential in a remote work collaboration tool and why?  
-**Response:**  
+**Response: Tracking our own and other's work. Setting deadlines. Able to track our own progress.**  
 
 ### 2. In a team chat interface, which features are most crucial for keeping conversations organized?  
-**Response:**  
+**Response:Should be easy to use, not much comment on it.**  
 
 ### 3. What is the most important information you need to see immediately when you are assigned a new task?  
 **Response:**  
