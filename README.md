@@ -7,7 +7,7 @@
 
 #### 2.In a team chat interface, which features are most crucial for keeping conversations organized?</small> 
 
-<small>3. What is the most important information you need to see immediately when you are assigned a new task?</small>  
+### 3. What is the most important information you need to see immediately when you are assigned a new task?</small>  
 
 <small>4. In platforms like GitHub, project repositories allow centralized file storage, version tracking and visibility of modifications. How important do you think such features are in a remote work collaboration tool and what additional capabilities would you expect to improve team productivity?</small>  
 
