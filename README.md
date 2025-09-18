@@ -5,7 +5,7 @@
 <small>1. What key features do you believe are essential in a remote work collaboration tool and why?</small>  
 **Response:** 
 
-### 2.In a team chat interface, which features are most crucial for keeping conversations organized?</small> 
+#### 2.In a team chat interface, which features are most crucial for keeping conversations organized?</small> 
 
 <small>3. What is the most important information you need to see immediately when you are assigned a new task?</small>  
 
